@@ -1,0 +1,15 @@
+.image-wrapper {
+	width: 45%;
+	display: inline-block;
+}
+
+img {
+	width: 100%;
+	display: block;
+}
+#Background {
+	fill:blue;
+}
+#Background:hover {
+	fill: green; 
+}
